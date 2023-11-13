@@ -121,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             Image.asset(
               'assets/images/counter_image.png',
-              width: 100.0,
+              width: 300.0,
             ),
             Text(
               'You have pushed the button this many times:',
